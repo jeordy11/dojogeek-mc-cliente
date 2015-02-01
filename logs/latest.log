@@ -1,0 +1,528 @@
+[08:42:03] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:42:04] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:42:04] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[08:42:04] [main/INFO]: Forge Mod Loader version 7.10.85.1291 for Minecraft 1.7.10 loading
+[08:42:04] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_75, running on Windows 8.1:amd64:6.3, installed at C:\Program Files\Java\jre7
+[08:42:05] [main/WARN]: The coremod ic2.core.coremod.IC2core does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[08:42:05] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:42:05] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[08:42:05] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:42:05] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:42:05] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:42:10] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[08:42:10] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[08:42:10] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:42:10] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:42:10] [main/INFO]: Loaded library ejml-0.23.jar.
+[08:42:10] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:42:10] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[08:42:15] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[08:42:15] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[08:42:15] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[08:42:19] [main/INFO]: Setting user: deadmau5
+[08:42:21] [main/INFO]: Successfully patched sw.recreateLeash.
+[08:42:22] [main/INFO]: [net.minecraft.client.main.Main:main:144]: Completely ignored arguments: [--icon, C:\Users\martin\AppData\Roaming\.technic\assets\packs\dojogeek\icon.png, --title, dojogeek]
+[08:42:22] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:42:24] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[08:42:24] [Client thread/INFO]: MinecraftForge v10.13.2.1291 Initialized
+[08:42:24] [Client thread/INFO]: Replaced 183 ore recipies
+[08:42:24] [Client thread/INFO]: Completed early MinecraftForge initialization
+[08:42:24] [Client thread/INFO]: Searching C:\Users\martin\AppData\Roaming\.technic\modpacks\dojogeek\mods for mods
+[08:42:57] [Client thread/INFO]: Forge Mod Loader has identified 16 mods to load
+[08:42:59] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, OpenComputers|Core, admicraft, BuildCraft|Silicon, BuildCraft|Core, BuildCraft|Transport, BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, chococraft, IC2, OpenComputers, Railcraft, sAuth] at CLIENT
+[08:42:59] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, OpenComputers|Core, admicraft, BuildCraft|Silicon, BuildCraft|Core, BuildCraft|Transport, BuildCraft|Builders, BuildCraft|Energy, BuildCraft|Factory, chococraft, IC2, OpenComputers, Railcraft, sAuth] at SERVER
+[08:43:01] [Client thread/INFO]: Successfully patched bok.func_110827_b.
+[08:43:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AdMinecraft, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:Clienthax's ChocoCraft, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Simple Auth
+[08:43:03] [Client thread/INFO]: Processing ObjectHolder annotations
+[08:43:03] [Client thread/INFO]: Found 341 ObjectHolder annotations
+[08:43:03] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[08:43:03] [Thread-6/INFO]: [fr.veillard.admincraft.forge.Serveur:<init>:17]: Initialisation du serveur...
+[08:43:03] [Client thread/INFO]: Starting BuildCraft 6.3.3
+[08:43:03] [Client thread/INFO]: Copyright (c) SpaceToad, 2011-2014
+[08:43:03] [Client thread/INFO]: http://www.mod-buildcraft.com
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.net.SocketException: Unrecognized Windows Sockets error: 0: JVM_Bind
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.TwoStacksPlainSocketImpl.socketBind(Native Method)
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.TwoStacksPlainSocketImpl.socketBind(Unknown Source)
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.TwoStacksPlainSocketImpl.bind(Unknown Source)
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.PlainSocketImpl.bind(Unknown Source)
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.ServerSocket.bind(Unknown Source)
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.ServerSocket.<init>(Unknown Source)
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.ServerSocket.<init>(Unknown Source)
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at fr.veillard.admincraft.forge.Serveur.<init>(Serveur.java:18)
+[08:43:03] [Thread-6/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at fr.veillard.admincraft.forge.AdminCraft$1.run(AdminCraft.java:44)
+[08:43:03] [Thread-7/INFO]: Beginning version check
+[08:43:05] [Thread-7/WARN]: Using outdated version [6.3.3] for Minecraft 1.7.10. Consider updating to 6.3.4.
+[08:43:05] [Client thread/INFO]: Starting pre-init
+[08:43:06] [Client thread/INFO]: Using 32 audio sources.
+[08:43:11] [Client thread/INFO]: Finished pre-init after 5049 ms
+[08:43:12] [Client thread/INFO]: Initializing blocks and items.
+[08:43:13] [Client thread/INFO]: Skipping interface appeng.api.networking.IGridHost from missing mod appliedenergistics2.
+[08:43:13] [Client thread/INFO]: Skipping interface factorization.api.IChargeConductor from missing mod factorization.
+[08:43:13] [Client thread/INFO]: Skipping interface micdoodle8.mods.galacticraft.api.power.IEnergyHandlerGC from missing mod Galacticraft API.
+[08:43:13] [Client thread/INFO]: Skipping interface micdoodle8.mods.galacticraft.api.transmission.tile.IConnector from missing mod Galacticraft API.
+[08:43:14] [Client thread/INFO]: Injecting interface ic2.api.energy.tile.IEnergySink into li.cil.oc.common.tileentity.traits.power.IndustrialCraft2Experimental.
+[08:43:14] [Client thread/INFO]: Skipping interface ic2classic.api.energy.tile.IEnergySink from missing mod IC2-Classic.
+[08:43:14] [Client thread/INFO]: Skipping interface mekanism.api.energy.IStrictEnergyAcceptor from missing mod Mekanism.
+[08:43:14] [Client thread/INFO]: Injecting interface cofh.api.energy.IEnergyHandler into li.cil.oc.common.tileentity.traits.power.RedstoneFlux.
+[08:43:14] [Client thread/INFO]: Injecting interface buildcraft.api.tiles.IHasWork into li.cil.oc.common.tileentity.traits.StateAware.
+[08:43:14] [Client thread/INFO]: Skipping interface lordfokas.stargatetech2.api.bus.IBusDevice from missing mod StargateTech2.
+[08:43:16] [Client thread/INFO]: Initializing additional OreDict entries.
+[08:43:16] [Client thread/INFO]: Initializing OpenComputers API.
+[08:43:19] [Client thread/INFO]: Found a compatible native library: 'OpenComputersMod-1.4.6.30-native.64.dll'.
+[08:43:19] [Client thread/INFO]: Done with pre init phase.
+[08:43:19] [Client thread/INFO]: Railcraft Config: Doing preinit parsing
+[08:43:21] [Client thread/INFO]: Module disabled: ModuleThaumcraft, Thaumcraft not detected
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item canEmpty
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item waxCapsule
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item refractoryEmpty
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item canEmpty
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item waxCapsule
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item refractoryEmpty
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item canEmpty
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item ingotTin
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item waxCapsule
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item refractoryEmpty
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item canEmpty
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item waxCapsule
+[08:43:21] [Client thread/INFO]: Searched for but failed to find FORESTRY item refractoryEmpty
+[08:43:23] [Client thread/INFO]: Adding Coke Oven recipe: net.minecraft.item.ItemCoal, 1xitem.coal@0, 0
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreSulfur, id=1xtile.railcraft.ore@0 meta=0
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreSaltpeter, id=1xtile.railcraft.ore@1 meta=1
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreDiamond, id=1xtile.railcraft.ore@2 meta=2
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreEmerald, id=1xtile.railcraft.ore@3 meta=3
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreLapis, id=1xtile.railcraft.ore@4 meta=4
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: oreFirestone, id=1xtile.railcraft.ore@5 meta=5
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: orePoorCopper, id=1xtile.railcraft.ore@9 meta=9
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: orePoorGold, id=1xtile.railcraft.ore@8 meta=8
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: orePoorIron, id=1xtile.railcraft.ore@7 meta=7
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: orePoorTin, id=1xtile.railcraft.ore@10 meta=10
+[08:43:23] [Client thread/INFO]: Automation Module: Ore Detected, adding to blocks Tunnel Bore can mine: orePoorLead, id=1xtile.railcraft.ore@11 meta=11
+[08:43:23] [Client thread/INFO]: Applying holder lookups
+[08:43:23] [Client thread/INFO]: Holder lookups applied
+[08:43:24] [Client thread/INFO]: IC2 audio starting.
+[08:43:24] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:43:24] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[08:43:24] [Thread-9/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[08:43:24] [Thread-9/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[08:43:26] [Thread-9/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[08:43:26] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:43:26] [Sound Library Loader/INFO]: Sound engine started
+[08:43:26] [IC2 audio init thread/INFO]: IC2 audio ready.
+[08:43:50] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_412_null.png
+java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_412_null.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110580_a(SourceFile:61) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_130088_a(SourceFile:52) [bqf.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:537) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_75]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_75]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[08:43:50] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_414_null.png
+java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_414_null.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110580_a(SourceFile:61) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_130088_a(SourceFile:52) [bqf.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:537) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_75]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_75]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[08:43:50] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_413_null.png
+java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_413_null.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110580_a(SourceFile:61) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_130088_a(SourceFile:52) [bqf.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:537) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_75]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_75]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[08:43:51] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_411_null.png
+java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_411_null.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110580_a(SourceFile:61) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_130088_a(SourceFile:52) [bqf.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:537) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_75]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_75]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[08:43:53] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[08:43:55] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[08:43:57] [Client thread/INFO]: Starting init
+[08:43:57] [Client thread/INFO]: Finished init after 236 ms
+[08:43:58] [Client thread/INFO]: No recipe for 'cuttingWire', you will not be able to craft this item.
+[08:43:58] [Client thread/INFO]: No recipe for 'acid', you will not be able to craft this item.
+[08:43:58] [Client thread/INFO]: No recipe for 'circuitBoard', you will not be able to craft this item.
+[08:43:58] [Client thread/INFO]: Initializing mod integration.
+[08:43:58] [Client thread/INFO]: Initializing mod integration for 'BuildCraftAPI|tools'.
+[08:43:58] [Client thread/INFO]: Initializing mod integration for 'BuildCraftAPI|tiles'.
+[08:43:58] [Client thread/INFO]: Initializing mod integration for 'BuildCraftAPI|transport'.
+[08:43:58] [Client thread/INFO]: Initializing mod integration for 'CoFHAPI|energy'.
+[08:43:58] [Client thread/INFO]: Initializing mod integration for 'IC2'.
+[08:43:58] [Client thread/INFO]: Initializing mod integration for 'Railcraft'.
+[08:43:58] [Client thread/INFO]: Initializing mod integration for 'Minecraft'.
+[08:43:58] [Client thread/INFO]: Initializing mod integration for 'OpenComputers'.
+[08:44:00] [Client thread/INFO]: Initialized Unifont glyph provider.
+[08:44:00] [Client thread/INFO]: Initializing Unifont glyph provider.
+[08:44:01] [Client thread/INFO]: Loaded 57086 glyphs.
+[08:44:01] [Client thread/INFO]: Done with init phase.
+[08:44:01] [Client thread/INFO]: Adding Coke Oven recipe: net.minecraft.item.ItemBlock, 1xtile.blockCoal@0, 0
+[08:44:01] [Client thread/INFO]: Registering new wrench tool 'li.cil.oc.integration.buildcraft.tools.EventHandlerBuildCraft.useWrench' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new tool durability provider 'li.cil.oc.integration.cofh.energy.EventHandlerRedstoneFlux.getDurability' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new tool durability provider 'li.cil.oc.integration.ic2.EventHandlerIndustrialCraft2.getDurability' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new wrench tool 'li.cil.oc.integration.ic2.EventHandlerIndustrialCraft2.useWrench' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new wrench tool 'li.cil.oc.integration.railcraft.EventHandlerRailcraft.useWrench' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Drone (Tier 1)' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Drone (Tier 2)' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Drone (Creative)' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new disassembler template 'Drone' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Microcontroller (Tier 1)' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Microcontroller (Tier 2)' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Microcontroller (Creative)' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new disassembler template 'Microcontroller' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new disassembler template 'Navigation Upgrade' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Robot (Tier 1)' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Robot (Tier 2)' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Robot (Tier 3)' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Robot (Creative)' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new disassembler template 'Robot' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new disassembler template 'Server' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template 'Tablet' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new disassembler template 'Tablet' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Registering new assembler template filter 'li.cil.oc.common.template.TemplateBlacklist.filter' from mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'geolyzer' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'keyboard' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'screen1' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'angelUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'batteryUpgrade1' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'batteryUpgrade2' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'batteryUpgrade3' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'chunkloaderUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'craftingUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'experienceUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'generatorUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'inventoryUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'navigationUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'pistonUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'solarGeneratorUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'tankUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'tractorBeamUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'leashUpgrade' for host 'li.cil.oc.api.internal.Adapter' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'graphicsCard1' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'graphicsCard2' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'graphicsCard3' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'keyboard' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'lanCard' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'redstoneCard1' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'screen1' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'angelUpgrade' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'craftingUpgrade' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'experienceUpgrade' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'graphicsCard1' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'graphicsCard2' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'graphicsCard3' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'keyboard' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'screen1' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'angelUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'chunkloaderUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'craftingUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'databaseUpgrade1' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'databaseUpgrade2' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'databaseUpgrade3' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'experienceUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'generatorUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'inventoryUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'inventoryControllerUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'navigationUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'tankUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'tankControllerUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'tractorBeamUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'leashUpgrade' for host 'li.cil.oc.api.internal.Microcontroller' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'leashUpgrade' for host 'li.cil.oc.api.internal.Robot' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'lanCard' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'redstoneCard1' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'screen1' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'angelUpgrade' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'chunkloaderUpgrade' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'craftingUpgrade' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'databaseUpgrade1' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'databaseUpgrade2' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'databaseUpgrade3' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'experienceUpgrade' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'generatorUpgrade' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'inventoryUpgrade' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'inventoryControllerUpgrade' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'tankUpgrade' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'tankControllerUpgrade' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'leashUpgrade' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'redstoneCard2' for host 'li.cil.oc.api.internal.Drone' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Blacklisting component 'redstoneCard2' for host 'li.cil.oc.api.internal.Tablet' as requested by mod OpenComputers.
+[08:44:01] [Client thread/INFO]: Starting post-init
+[08:44:01] [Client thread/INFO]: Loading IC2 submodule: bcIntegration
+[08:44:01] [Client thread/INFO]: Submodule bcIntegration not loaded
+[08:44:01] [Client thread/INFO]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[08:44:01] [Client thread/INFO]: 2783 UU recipe transformations fetched after 167 ms.
+[08:44:01] [Client thread/INFO]: Finished post-init after 409 ms
+[08:44:01] [Client thread/INFO]: Done with post init phase.
+[08:44:02] [Client thread/INFO]: Railcraft registered "fuel" as a valid Boiler fuel source with 48000 heat.
+[08:44:02] [Client thread/INFO]: Railcraft registered "creosote" as a valid Boiler fuel source with 4800 heat.
+[08:44:02] [Client thread/INFO]: Adding Coke Oven recipe: net.minecraft.item.ItemMultiTexture, 1xtile.log@32767, 32.767
+[08:44:02] [Client thread/INFO]: Adding Coke Oven recipe: net.minecraft.item.ItemMultiTexture, 1xtile.log@32767, 32.767
+[08:44:02] [Client thread/INFO]: Adding Coke Oven recipe: ic2.core.item.block.ItemBlockIC2, 1xic2.blockRubWood@32767, 32.767
+[08:44:03] [Client thread/WARN]: Could not register CraftGuide plugins: CraftGuide missing.
+[08:44:03] [Client thread/INFO]: Railcraft Config: Doing post init configuration
+[08:44:03] [Client thread/INFO]: Adding World Anchor Fuel = minecraft:ender_pearl=12
+[08:44:03] [Client thread/INFO]: Adding Personal Anchor Fuel = minecraft:ender_pearl=12
+[08:44:03] [Client thread/INFO]: Forge Mod Loader has successfully loaded 16 mods
+[08:44:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:AdMinecraft, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:Clienthax's ChocoCraft, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:OpenComputers, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Simple Auth
+[08:44:03] [Client thread/ERROR]: Using missing texture, unable to load buildcraft:textures/items/triggers/action_machinecontrol_mode.png
+java.io.FileNotFoundException: buildcraft:textures/items/triggers/action_machinecontrol_mode.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
+	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:303) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_75]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_75]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[08:44:04] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[08:44:05] [ic2-poolthread-1/INFO]: UU graph built with 2123 nodes after 3516 ms.
+[08:44:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_412_null.png
+java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_412_null.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
+	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:303) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_75]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_75]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[08:44:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_414_null.png
+java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_414_null.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
+	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:303) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_75]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_75]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[08:44:06] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_413_null.png
+java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_413_null.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
+	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:303) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_75]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_75]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[08:44:07] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_411_null.png
+java.io.FileNotFoundException: minecraft:textures/blocks/MISSING_ICON_BLOCK_411_null.png
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(SourceFile:51) ~[bqq.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SourceFile:55) ~[brg.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:125) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureMap.func_110551_a(TextureMap.java:90) [bpz.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110579_a(SourceFile:72) [bqf.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.func_110549_a(SourceFile:136) [bqf.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SourceFile:104) [brg.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SourceFile:92) [brg.class:?]
+	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:598) [bao.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:303) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_75]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.7.0_75]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.7.0_75]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
+[08:44:08] [Client thread/INFO]: Created: 1024x1024 textures/blocks-atlas
+[08:44:09] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:44:09] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[08:44:09] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[08:44:09] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:44:09] [Client thread/INFO]: IC2 audio starting.
+[08:44:09] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:44:09] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[08:44:09] [Thread-12/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[08:44:09] [Thread-12/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[08:44:09] [Thread-12/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[08:44:09] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:44:09] [Sound Library Loader/INFO]: Sound engine started
+[08:44:09] [IC2 audio init thread/INFO]: IC2 audio ready.
+[08:44:09] [Client thread/INFO]: Initialized Unifont glyph provider.
+[08:44:09] [Client thread/INFO]: Initializing Unifont glyph provider.
+[08:44:10] [Client thread/INFO]: Loaded 57086 glyphs.
+[08:44:18] [Netty Client IO #1/INFO]: Attempting connection with missing mods [] at SERVER
+[08:44:18] [Thread-11/WARN]: If you see a error just below this line, its prob fine to ignore <3 chococraft
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.net.ConnectException: Connection timed out: connect
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.Socket.connect(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.Socket.connect(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.net.NetworkClient.doConnect(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.net.URL.openStream(Unknown Source)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at org.apache.commons.io.IOUtils.toString(IOUtils.java:894)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at org.apache.commons.io.IOUtils.toString(IOUtils.java:879)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at chococraft.common.utils.UpdateChecker.run(UpdateChecker.java:24)
+[08:44:18] [Thread-11/INFO]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.Thread.run(Unknown Source)
+[08:44:26] [Client thread/INFO]: Connecting to 127.0.0.1, 25565
+[08:44:28] [Netty Client IO #2/INFO]: Server protocol version 1
+[08:44:28] [Netty Client IO #2/INFO]: Attempting connection with missing mods [] at SERVER
+[08:44:28] [Netty Client IO #2/INFO]: Injecting existing block and item data into this client instance
+[08:44:28] [Netty Client IO #2/INFO]: Applying holder lookups
+[08:44:28] [Netty Client IO #2/INFO]: Holder lookups applied
+[08:44:29] [Client thread/INFO]: [Client thread] Client side modded connection established
+[08:44:31] [Client thread/INFO]: [CHAT] �eRegister using /register <password> <repeat password>
+[08:44:52] [Netty Client IO #2/ERROR]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException
+[08:44:52] [Client thread/INFO]: Applying holder lookups
+[08:44:52] [Client thread/INFO]: Holder lookups applied
+[08:44:58] [Client thread/INFO]: Connecting to 127.0.0.1, 25565
+[08:45:02] [Netty Client IO #3/INFO]: Server protocol version 1
+[08:45:02] [Netty Client IO #3/INFO]: Attempting connection with missing mods [] at SERVER
+[08:45:02] [Netty Client IO #3/INFO]: Injecting existing block and item data into this client instance
+[08:45:03] [Netty Client IO #3/INFO]: Applying holder lookups
+[08:45:03] [Netty Client IO #3/INFO]: Holder lookups applied
+[08:45:03] [Client thread/INFO]: [Client thread] Client side modded connection established
+[08:45:04] [Client thread/INFO]: [CHAT] �eRegister using /register <password> <repeat password>
+[08:45:13] [Client thread/INFO]: [CHAT] �2Successfully registered!
+[08:45:39] [Client thread/INFO]: [CHAT] <�7deadmau5�r> test
+[08:45:55] [Client thread/INFO]: [CHAT] /town: 
+[08:45:55] [Client thread/INFO]: [CHAT]    setspawn: §2Sets the spawn of the town.
+[08:45:55] [Client thread/INFO]: [CHAT]    promote: §2Promotes a resident to the specified rank.
+[08:45:55] [Client thread/INFO]: [CHAT]    claim: §2Claims the chunk you are in.
+[08:45:55] [Client thread/INFO]: [CHAT]    spawn: §2Teleports the player to town's spawn.
+[08:45:55] [Client thread/INFO]: [CHAT]    new: §2Makes a new town.
+[08:45:55] [Client thread/INFO]: [CHAT]    refuse: §2Refuses a invitation to a town.
+[08:45:55] [Client thread/INFO]: [CHAT]    leave: §2Leave the town.
+[08:45:55] [Client thread/INFO]: [CHAT]    accept: §2Accepts the invitation to join a town.
+[08:45:55] [Client thread/INFO]: [CHAT]    help: §2Gives help about commands.
+[08:45:55] [Client thread/INFO]: [CHAT]    invites: §2Shows all the invites.
+[08:45:55] [Client thread/INFO]: [CHAT]    unclaim: §2Removes the claim of the chunk you are in.
+[08:45:55] [Client thread/INFO]: [CHAT]    info: §2Gives info about a town.
+[08:45:55] [Client thread/INFO]: [CHAT]    perm: §2Everything related to protection.
+[08:45:55] [Client thread/INFO]: [CHAT]    kick: §2Removes the resident from the town.
+[08:45:55] [Client thread/INFO]: [CHAT]    list: §2Lists all towns.
+[08:45:55] [Client thread/INFO]: [CHAT]    invite: §2Invites a player to your town.
+[08:45:55] [Client thread/INFO]: [CHAT]    pass: §2Passes mayorship to someone else in the town.
+[08:45:55] [Client thread/INFO]: [CHAT]    map: §2Gives a map of the nearby claimed chunks.
+[08:45:55] [Client thread/INFO]: [CHAT]    select: §2Selects a town in which you are in.
+[08:45:55] [Client thread/INFO]: [CHAT]    res: §2Shows information about residents.
+[08:45:55] [Client thread/INFO]: [CHAT]    blocks: §2Everything related to TownBlocks (chunks in town)
+[08:45:55] [Client thread/INFO]: [CHAT]    friends: §2Everything related to friends.
+[08:45:55] [Client thread/INFO]: [CHAT]    plot: §2Everything related to plots.
+[08:45:55] [Client thread/INFO]: [CHAT]    ranks: §2Everything related to ranks.
+[08:46:12] [Client thread/INFO]: Applying holder lookups
+[08:46:12] [Client thread/INFO]: Holder lookups applied
+[08:46:19] [Netty Client IO #4/INFO]: Attempting connection with missing mods [] at SERVER
+[08:46:20] [Client thread/INFO]: Connecting to 127.0.0.1, 25565
+[08:46:20] [Netty Client IO #6/INFO]: Server protocol version 1
+[08:46:20] [Netty Client IO #6/INFO]: Attempting connection with missing mods [] at SERVER
+[08:46:20] [Netty Client IO #6/INFO]: Injecting existing block and item data into this client instance
+[08:46:20] [Netty Client IO #6/INFO]: Applying holder lookups
+[08:46:20] [Netty Client IO #6/INFO]: Holder lookups applied
+[08:46:21] [Client thread/INFO]: [Client thread] Client side modded connection established
+[08:46:21] [Client thread/INFO]: [CHAT] �eLogin using /login <password>
+[08:46:31] [Client thread/INFO]: Warning: Clientside chunk ticking took 188 ms
+[08:46:31] [Client thread/INFO]: Warning: Clientside chunk ticking took 150 ms
+[08:46:35] [Client thread/INFO]: [CHAT] �2Logged in!
+[08:46:40] [Client thread/INFO]: Stopping!
+[08:46:40] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:46:40] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[08:46:40] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[08:46:40] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
